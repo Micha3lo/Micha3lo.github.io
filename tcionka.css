@@ -8,3 +8,13 @@ body {
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
+.button {
+    display: triangle;
+    height: 100px;
+    width: 100px;
+    background: blue;
+    border: 5px solid rgba(255, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.55);
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+ }
